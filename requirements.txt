@@ -3,5 +3,5 @@
 # Manually managing azure-functions-worker may cause unexpected issues
 
 azure-functions==1.11.2
-fastapi==0.78.0
+fastapi==0.109.1
 nest_asyncio==1.5.5
